@@ -1,4 +1,5 @@
 ### SOBRE O PROJETO:
+Teste de pull request
 <p>Calculadora simples desenvolvida em JavaScript</p>
 <p>Foi desenvolvido com as seguintes tecnologias:</p>
 <li>HTML-5</li>
